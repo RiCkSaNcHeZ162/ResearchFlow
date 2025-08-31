@@ -16,3 +16,4 @@ pysqlite3-binary
 arxiv
 wikipedia
 duckduckgo-search
+ddgs
